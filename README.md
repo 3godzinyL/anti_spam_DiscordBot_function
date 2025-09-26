@@ -1,8 +1,10 @@
-# 💚 Node.js · 💛 JavaScript · 💙 Discord — Anti-Spam AutoMod
-
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)](https://discord.js.org/)
 [![License](https://img.shields.io/badge/license-MIT-informational)](#)
+
+
+# 💚 Node.js · 💛 JavaScript · 💙 Discord — Anti-Spam AutoMod
+
 
 > **Anti-spam feature (AutoMod)** to include a Discord bot in your project.  
 > Drop-in, ESM-friendly, with log channel, temp notices (auto-delete), and smart cooldowns.
