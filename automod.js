@@ -10,7 +10,7 @@ import {
 } from 'discord.js';
 
 /** ===== CONFIG ===== */
-const LOG_CHANNEL_ID = "1421196548833935510";
+const LOG_CHANNEL_ID = "IDIDIDIDIDIDIIDIDIDIDIDIDIIDIDIDIDIDIIDID";
 
 // Windows
 const SAME_MSG_WINDOW_MS = 2000;     // 2s window for identical-message spam (single channel)
@@ -314,3 +314,4 @@ export async function handleSpamDetection(message) {
 }
 
 export default { handleSpamDetection };
+
