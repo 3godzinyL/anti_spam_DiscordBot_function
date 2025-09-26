@@ -115,14 +115,14 @@ const MULTI_CH_COUNT  = 3;           // channels trigger (multi-channel)
 
 > Drop your own GIFs showcasing the behavior:
 
-- **Single‑channel spam (text/links)**
+- **Single-channel spam (text/links)**  
 
-  ![Single‑channel spam demo](https://cdn.discordapp.com/attachments/1421206587640381531/1421209628431093800/0926.gif?ex=68d8341c&is=68d6e29c&hm=5a937e2055a22bb8a9ea273950289f829f11dde77f4d3cf2431ec221d785da13&)
+  ![Single-channel spam demo](./0926.gif)
 
-- **Multi‑channel spam (same text or links across channels)**
+- **Multi-channel spam (same text or links across channels)**  
 
-  ![Multi‑channel spam demo](https://cdn.discordapp.com/attachments/1421206587640381531/1421210420613746769/0926_1_.gif?ex=68d834d9&is=68d6e359&hm=63b592b36741f9218d6d996bfe0a7ed16dfc9c50ff6a592a1c52e34f467b3959&)
----
+  ![Multi-channel spam demo](./0926_1.gif)
+
 
 ## 🧠 How it works (under the hood)
 
