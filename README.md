@@ -122,7 +122,6 @@ const MULTI_CH_COUNT  = 3;           // channels trigger (multi-channel)
 - **Multi‑channel spam (same text or links across channels)**
 
   ![Multi‑channel spam demo](https://cdn.discordapp.com/attachments/1421206587640381531/1421210420613746769/0926_1_.gif?ex=68d834d9&is=68d6e359&hm=63b592b36741f9218d6d996bfe0a7ed16dfc9c50ff6a592a1c52e34f467b3959&)
-
 ---
 
 ## 🧠 How it works (under the hood)
