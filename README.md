@@ -13,18 +13,9 @@
 
 ## ✨ Features (at a glance)
 
-- 🔗 **Multi-channel link spam** → instant **ban** (log only in your mod-log channel)
-- 🧵 **Same text across 3+ channels (<3.5s)** → **24h mute**, Level-3 warning
-- 🔁 **3× identical message (<2s)**  
-  - text → **15m mute**  
-  - text+link / link → **1h mute**
-- ⚡ **Burst spam (≥5 msgs in <2s) in one channel**  
-  - text → **30m mute** (L1)  
-  - text+link / link → **3h mute** (L2)
-- 🧹 **Temp notices auto-delete after 10s** (to avoid bot spamming channels)
-- 🧷 **Persistent logs** go only to your **LOG channel** (kept for moderators)
-- 🛡️ **Auto “Muted” role** with per-channel overwrites (created if missing)
-- 🧊 Cooldown to prevent duplicate sanctions firing back-to-back
+| Features | Preview |
+|----------|---------|
+| - 🔗 **Multi-channel link spam** → instant **ban** (log only in your mod-log channel)<br>- 🧵 **Same text across 3+ channels (<3.5s)** → **24h mute**, Level-3 warning<br>- 🔁 **3× identical message (<2s)**<br>&nbsp;&nbsp;&nbsp;&nbsp;- text → **15m mute**<br>&nbsp;&nbsp;&nbsp;&nbsp;- text+link / link → **1h mute**<br>- ⚡ **Burst spam (≥5 msgs in <2s)**<br>&nbsp;&nbsp;&nbsp;&nbsp;- text → **30m mute** (L1)<br>&nbsp;&nbsp;&nbsp;&nbsp;- text+link / link → **3h mute** (L2)<br>- 🧹 **Temp notices auto-delete after 10s**<br>- 🧷 **Persistent logs** go only to your **LOG channel**<br>- 🛡️ **Auto “Muted” role**<br>- 🧊 Cooldown to prevent duplicate sanctions | <img src="https://cdn.discordapp.com/attachments/1421206587640381531/1421214768177483806/image.png?ex=68d838e5&is=68d6e765&hm=73af8fb6d7a723ebdbce2bcf00080f5979e64d94a85ac90923a11bbf91c3331d&" width="350"/> |
 
 ---
 
