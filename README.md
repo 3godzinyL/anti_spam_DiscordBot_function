@@ -117,11 +117,11 @@ const MULTI_CH_COUNT  = 3;           // channels trigger (multi-channel)
 
 - **Single-channel spam (text/links)**  
 
-  ![Single-channel spam demo](./0926.gif)
+  ![Single-channel spam demo](/0926.gif)
 
 - **Multi-channel spam (same text or links across channels)**  
 
-  ![Multi-channel spam demo](./0926_1.gif)
+  ![Multi-channel spam demo]()
 
 
 ## 🧠 How it works (under the hood)
